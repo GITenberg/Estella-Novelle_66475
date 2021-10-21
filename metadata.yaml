@@ -1,11 +1,16 @@
 _repo: Estella-Novelle_66475
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66475-h/images/cover.jpg
 creator:
   author:
     agent_name: Danöfen, Lydia
     gutenberg_agent_id: '53827'
     url: http://www.gutenberg.org/2009/agents/53827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66475#Estella-Novelle
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66475'
